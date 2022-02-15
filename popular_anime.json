@@ -1,0 +1,43 @@
+{
+  "popular anime" : [
+    {
+      "name": "vinland saga",
+      "image": "https://i.pinimg.com/736x/a7/4e/68/a74e682fc613a7efae252eb8a02aab20.jpg",
+      "cover pic": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Vinland-Saga-Featured-and-Social-Media-Image-1.jpg-1.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+      "genre" : ["action", "adventure", "drama"],
+      "description": "A young man named Thorfinn finds himself in a quest for revenge against his father's killer. Firstly indulged in the aparent greatness of war and honor, Thorfinn quickly changes as he endures having to survive alone and then alongside the man he vows to kill, developing conflicting emotions towards the causality of his past and present life",
+      "season": "1",
+      "episodes": " 24"
+    },
+    {
+      "name": "Kimetsu no Yaiba",
+      "image": "https://i.pinimg.com/originals/78/92/7c/78927c9974364a1f8792fb09e183e531.png",
+      "cover pic": "https://assets-prd.ignimgs.com/2021/12/06/demon-slayer-hero-1638820929068.jpg",
+      "genre" : ["Action","Adventure","Fantasy","Thriller"],
+      "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister",
+      "season": "3",
+      "episodes": "44"
+    },
+    {
+      "name": "Attack on Titan",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1447034211-aab06ba43a800bd556307046c37e2b57.png",
+      "cover pic": "https://staticg.sportskeeda.com/editor/2021/11/207ec-16358773930640-1920.jpg",
+      "genre": ["Action","Adventure","Drama","Fantasy","Horror"],
+      "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction",
+      "season": "4",
+      "episodes": "90"
+
+    },
+    {
+      "name": "Black Clover",
+      "image": "https://resizing.flixster.com/SCNNOzVgtgi00ta3kIGPn8tFQiE=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjQzNTg4OS53ZWJw",
+      "cover pic": "https://i.pinimg.com/474x/8b/a8/97/8ba897bc733595f5cda103d3d4ccaec0.jpg",
+      "genre": ["Action","Adventure","Comedy","Drama","Fantasy","Sci-Fi"],
+      "description": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus",
+      "season": "4",
+      "episodes": "170"
+
+    }
+
+    ]
+}
